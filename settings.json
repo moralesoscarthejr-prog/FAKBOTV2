@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "swiftsmp.net",
-    "port": 75375,
+    "port": 0,
     "version": "1.21.1"
   },
   "position": {
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
